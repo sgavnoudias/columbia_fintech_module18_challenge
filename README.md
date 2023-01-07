@@ -73,6 +73,7 @@ To run the Machine Learning Trading Bot application, simply clone the repository
 
 ### Streamlit Web Application: PYCHAIN Validatate Chain Results
 ![](Images/Pychain_Validate_Chain.JPG)      
+![](Images/Pychain_Validate_Chain_B.JPG)      
 
 ---
 
